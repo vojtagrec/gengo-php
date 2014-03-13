@@ -1,7 +1,6 @@
 {
     "name": "vojtagrec/gengo-php",
     "description": "Gengo PHP Library (for the Gengo API)",
-    "version": "1.0.0",
     "homepage": "https://github.com/vojtagrec/gengo-php",
     "license": "3-clause BSD",
     "authors": [
@@ -10,7 +9,7 @@
             "email": "vojtech.grec@keyup.eu"
         }
     ],
-    "require": {
-
+    "autoload": {
+        "files": ["init.php"]
     }
 }
