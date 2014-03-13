@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/gengo/gengo-php.png?branch=master)](https://travis-ci.org/gengo/gengo-php)
+**Clean fork of the Gengo PHP lib, with just composer.json added.**
 
 Gengo PHP Library (for the [Gengo API](http://gengo.com/api/))
 ======================================================================================================================================================
@@ -16,7 +16,7 @@ Installing the library is simple.
 * Get the repo:
 
 ```sh
-$ git clone git://github.com/gengo/gengo-php.git
+$ git clone git://github.com/vojtagrec/gengo-php.git
 ```
 
 * Edit the `config.ini` file and set the baseurl to the environment you're sending translations to so that your API keys authenticate correctly.

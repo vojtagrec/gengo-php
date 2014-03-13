@@ -1,0 +1,15 @@
+{
+    "name": "vojtagrec/gengo-php",
+    "description": "Gengo PHP Library (for the Gengo API)",
+    "homepage": "https://github.com/vojtagrec/gengo-php",
+    "license": "3-clause BSD",
+    "authors": [
+        {
+            "name": "Vojtech Grec",
+            "email": "vojtech.grec@keyup.eu"
+        }
+    ],
+    "require": {
+
+    }
+}
